@@ -1,6 +1,6 @@
 ---
 title: Banyura web design
-import ".desktop {
+import .desktop {
   background-color: #ffffff;
   display: flex;
   flex-direction: row;
