@@ -1,5 +1,4 @@
 ---
-title: Banyura web design
 import .desktop {
   background-color: #ffffff;
   display: flex;
